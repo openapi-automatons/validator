@@ -1,0 +1,27 @@
+{
+  "name": "validator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint src --ext .ts,.tsx",
+    "postinstall": "husky install && typesync && yarn check --integrity || yarn install --ignore-scripts && yarn-deduplicate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@hyperjump/json-schema": "^0.18.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "@typescript-eslint/parser": "^5.3.1",
+    "eslint": "^8.2.0",
+    "eslint-config-google": "^0.14.0",
+    "husky": "^7.0.4",
+    "jest": "^27.3.1",
+    "lint-staged": "^11.2.6",
+    "ts-jest": "^27.0.7",
+    "typescript": "^4.4.4",
+    "yarn-deduplicate": "^3.1.0"
+  }
+}
