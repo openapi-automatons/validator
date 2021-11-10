@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "prebuild": "depcheck",
     "build": "tsc",
     "lint": "eslint src --ext .ts,.tsx",
     "postinstall": "husky install && typesync && yarn check --integrity || yarn install --ignore-scripts && yarn-deduplicate",
@@ -18,6 +19,7 @@
     "@types/eslint": "^7.28.2",
     "@types/jest": "^27.0.2",
     "@typescript-eslint/parser": "^5.3.1",
+    "depcheck": "^1.4.2",
     "eslint": "^8.2.0",
     "eslint-config-google": "^0.14.0",
     "husky": "^7.0.4",

@@ -1,0 +1,1 @@
+ignores: ["@commitlint/*","@types/*","@typescript-eslint/eslint-plugin","@hyperjump/json-schema-core","lint-staged"]
