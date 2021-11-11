@@ -17,6 +17,7 @@ module.exports = {
   'rules': {
     "indent": [2, 2],
     "max-len": ["error", {"code": 120}],
-    "new-cap": "off"
+    "new-cap": "off",
+    "camelcase": "off"
   },
 };
