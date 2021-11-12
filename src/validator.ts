@@ -22,7 +22,7 @@ export const validator = async (openapi: {openapi: string, [key: string]: any}) 
     }));
 };
 
-type Validate = {
+export type Validate = {
   keyword: string,
   rule: string,
   location: string
