@@ -53,7 +53,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: 14.x
+          node-version: ${{ env.node-version }}
       - name: Cache modules
         id: cache
         uses: actions/cache@v2
@@ -88,7 +88,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: 14.x
+          node-version: ${{ env.node-version }}
           registry-url: https://registry.npmjs.org/
       - name: Cache modules
         id: cache
