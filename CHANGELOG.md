@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/openapi-automatons/validator/compare/v1.0.3...v1.0.4) (2021-11-18)
+
+
+### Bug Fixes
+
+* **deps:** bump @hyperjump/json-schema from 0.18.2 to 0.18.3 ([#10](https://github.com/openapi-automatons/validator/issues/10)) ([bd44574](https://github.com/openapi-automatons/validator/commit/bd445747a59630d0d15def4d2ad9f75422bb6511))
+
 ## [1.0.3](https://github.com/openapi-automatons/validator/compare/v1.0.2...v1.0.3) (2021-11-18)
 
 
