@@ -18,7 +18,7 @@
     "validator"
   ],
   "dependencies": {
-    "@hyperjump/json-schema": "^0.18.2"
+    "@hyperjump/json-schema": "^0.18.3"
   },
   "devDependencies": {
     "@commitlint/cli": "^14.1.0",
@@ -39,7 +39,7 @@
     "fs-extra": "^10.0.0",
     "husky": "^7.0.4",
     "jest": "^27.3.1",
-    "lint-staged": "^11.2.6",
+    "lint-staged": "^12.0.2",
     "semantic-release": "^18.0.0",
     "ts-jest": "^27.0.7",
     "typescript": "^4.4.4",
