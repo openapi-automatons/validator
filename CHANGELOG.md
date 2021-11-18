@@ -1,3 +1,12 @@
+## [1.0.5](https://github.com/openapi-automatons/validator/compare/v1.0.4...v1.0.5) (2021-11-18)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/config-conventional ([#9](https://github.com/openapi-automatons/validator/issues/9)) ([7b26eed](https://github.com/openapi-automatons/validator/commit/7b26eed6ec61d0ed03ff027bea03d6ec0ac50f9e))
+* **deps-dev:** bump @typescript-eslint/eslint-plugin from 5.3.1 to 5.4.0 ([#2](https://github.com/openapi-automatons/validator/issues/2)) ([1484e36](https://github.com/openapi-automatons/validator/commit/1484e36685e520a3b4d09db7cd5ad29aafc1c86a))
+* **deps-dev:** bump typescript from 4.4.4 to 4.5.2 ([#11](https://github.com/openapi-automatons/validator/issues/11)) ([7de29cb](https://github.com/openapi-automatons/validator/commit/7de29cbedf0e2c3c223bd839dd469de020c8b318))
+
 ## [1.0.4](https://github.com/openapi-automatons/validator/compare/v1.0.3...v1.0.4) (2021-11-18)
 
 
