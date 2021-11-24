@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/openapi-automatons/validator/compare/v1.0.7...v1.0.8) (2021-11-24)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 18.0.0 to 18.0.1 ([#16](https://github.com/openapi-automatons/validator/issues/16)) ([3d8f62d](https://github.com/openapi-automatons/validator/commit/3d8f62d79a30911137e0cde8d4cb371cbe81e132))
+
 ## [1.0.7](https://github.com/openapi-automatons/validator/compare/v1.0.6...v1.0.7) (2021-11-22)
 
 
