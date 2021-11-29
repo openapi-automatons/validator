@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/openapi-automatons/validator/compare/v1.0.8...v1.0.9) (2021-11-29)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump jest from 27.3.1 to 27.4.0 ([#17](https://github.com/openapi-automatons/validator/issues/17)) ([27fa84c](https://github.com/openapi-automatons/validator/commit/27fa84c7e998660d0c35f37848a971c2794bc36b))
+
 ## [1.0.8](https://github.com/openapi-automatons/validator/compare/v1.0.7...v1.0.8) (2021-11-24)
 
 
