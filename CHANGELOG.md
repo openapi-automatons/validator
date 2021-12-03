@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/openapi-automatons/validator/compare/v1.0.13...v1.0.14) (2021-12-03)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/eslint from 8.2.0 to 8.2.1 ([#22](https://github.com/openapi-automatons/validator/issues/22)) ([8448db4](https://github.com/openapi-automatons/validator/commit/8448db44242cd193e4bb389de775b188b0fec7d4))
+
 ## [1.0.13](https://github.com/openapi-automatons/validator/compare/v1.0.12...v1.0.13) (2021-12-01)
 
 
