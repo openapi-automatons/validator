@@ -1,3 +1,13 @@
+## [1.0.15](https://github.com/openapi-automatons/validator/compare/v1.0.14...v1.0.15) (2021-12-06)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @typescript-eslint/eslint-plugin from 5.5.0 to 5.6.0 ([#24](https://github.com/openapi-automatons/validator/issues/24)) ([db6cdef](https://github.com/openapi-automatons/validator/commit/db6cdef8b0b31667a73c3d27ada5cf2681e00b3a))
+* **deps-dev:** bump @typescript-eslint/parser from 5.5.0 to 5.6.0 ([#26](https://github.com/openapi-automatons/validator/issues/26)) ([ec3ee81](https://github.com/openapi-automatons/validator/commit/ec3ee81d36376eeae909a7ac9a9a40d58bbc1c68))
+* **deps-dev:** bump eslint from 8.3.0 to 8.4.0 ([#25](https://github.com/openapi-automatons/validator/issues/25)) ([c2a36f1](https://github.com/openapi-automatons/validator/commit/c2a36f1d42fd7ffec74bb4255f2d4ac552164a0f))
+* **deps-dev:** bump ts-jest from 27.0.7 to 27.1.0 ([#23](https://github.com/openapi-automatons/validator/issues/23)) ([936137d](https://github.com/openapi-automatons/validator/commit/936137d2fc51e1fac16cb025d6e6637664fb258b))
+
 ## [1.0.14](https://github.com/openapi-automatons/validator/compare/v1.0.13...v1.0.14) (2021-12-03)
 
 
