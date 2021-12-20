@@ -1,3 +1,11 @@
+## [1.0.25](https://github.com/openapi-automatons/validator/compare/v1.0.24...v1.0.25) (2021-12-20)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @typescript-eslint/eslint-plugin from 5.7.0 to 5.8.0 ([#37](https://github.com/openapi-automatons/validator/issues/37)) ([eab3a88](https://github.com/openapi-automatons/validator/commit/eab3a883731905b6f718bd44ba8027ace294079d))
+* **deps-dev:** bump lint-staged from 12.1.2 to 12.1.3 ([#39](https://github.com/openapi-automatons/validator/issues/39)) ([102bf81](https://github.com/openapi-automatons/validator/commit/102bf8170192bbb64e98899940aeb2e311069322))
+
 ## [1.0.24](https://github.com/openapi-automatons/validator/compare/v1.0.23...v1.0.24) (2021-12-20)
 
 
