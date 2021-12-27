@@ -1,3 +1,10 @@
+## [1.0.30](https://github.com/openapi-automatons/validator/compare/v1.0.29...v1.0.30) (2021-12-27)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 15.0.0 to 16.0.0 ([#44](https://github.com/openapi-automatons/validator/issues/44)) ([858e548](https://github.com/openapi-automatons/validator/commit/858e548e6b37fabbec2901b7fe9a09ac3e5aaa2f))
+
 ## [1.0.29](https://github.com/openapi-automatons/validator/compare/v1.0.28...v1.0.29) (2021-12-27)
 
 
