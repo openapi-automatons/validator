@@ -30,7 +30,7 @@
     "@types/fs-extra": "^9.0.13",
     "@types/jest": "^27.0.3",
     "@types/semantic-release": "^17.2.3",
-    "@typescript-eslint/eslint-plugin": "^5.8.0",
+    "@typescript-eslint/eslint-plugin": "^5.8.1",
     "@typescript-eslint/parser": "^5.8.1",
     "cp": "^0.2.0",
     "depcheck": "^1.4.2",
