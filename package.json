@@ -1,6 +1,6 @@
 {
   "name": "@automatons/validator",
-  "version": "1.0.36",
+  "version": "1.0.37",
   "main": "index.js",
   "author": "tanmen <yt.prog@gmail.com>",
   "license": "MIT",
@@ -33,7 +33,7 @@
     "@typescript-eslint/eslint-plugin": "^5.9.1",
     "@typescript-eslint/parser": "^5.9.1",
     "cp": "^0.2.0",
-    "depcheck": "^1.4.2",
+    "depcheck": "^1.4.3",
     "eslint": "^8.6.0",
     "eslint-config-google": "^0.14.0",
     "fs-extra": "^10.0.0",

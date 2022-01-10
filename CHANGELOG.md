@@ -1,3 +1,11 @@
+## [1.0.37](https://github.com/openapi-automatons/validator/compare/v1.0.36...v1.0.37) (2022-01-10)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 16.0.1 to 16.0.2 ([#56](https://github.com/openapi-automatons/validator/issues/56)) ([f6dcc81](https://github.com/openapi-automatons/validator/commit/f6dcc818c12637c8a0ce54bc9fa0dc3b56e8722a))
+* **deps-dev:** bump @typescript-eslint/eslint-plugin from 5.9.0 to 5.9.1 ([#54](https://github.com/openapi-automatons/validator/issues/54)) ([881b49f](https://github.com/openapi-automatons/validator/commit/881b49fe82016a5c6d8233440cd4b7aae9e13599))
+
 ## [1.0.36](https://github.com/openapi-automatons/validator/compare/v1.0.35...v1.0.36) (2022-01-07)
 
 
