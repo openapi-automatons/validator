@@ -1,3 +1,10 @@
+## [1.0.40](https://github.com/openapi-automatons/validator/compare/v1.0.39...v1.0.40) (2022-01-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @typescript-eslint/parser from 5.9.1 to 5.10.0 ([#60](https://github.com/openapi-automatons/validator/issues/60)) ([d87a85e](https://github.com/openapi-automatons/validator/commit/d87a85e88fab4c35200a255a3ac85e27a92c9075))
+
 ## [1.0.39](https://github.com/openapi-automatons/validator/compare/v1.0.38...v1.0.39) (2022-01-17)
 
 
