@@ -1,3 +1,10 @@
+## [1.0.41](https://github.com/openapi-automatons/validator/compare/v1.0.40...v1.0.41) (2022-01-18)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 12.1.7 to 12.2.0 ([#62](https://github.com/openapi-automatons/validator/issues/62)) ([3d4abdc](https://github.com/openapi-automatons/validator/commit/3d4abdcdcf2e0f03d14bbe5651a8f1501aa5dbba))
+
 ## [1.0.40](https://github.com/openapi-automatons/validator/compare/v1.0.39...v1.0.40) (2022-01-17)
 
 
