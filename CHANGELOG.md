@@ -1,3 +1,10 @@
+## [1.0.42](https://github.com/openapi-automatons/validator/compare/v1.0.41...v1.0.42) (2022-01-18)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 18.0.1 to 19.0.2 ([#63](https://github.com/openapi-automatons/validator/issues/63)) ([58f2e42](https://github.com/openapi-automatons/validator/commit/58f2e42eb61a8a0468953a2550809937173db8a5))
+
 ## [1.0.41](https://github.com/openapi-automatons/validator/compare/v1.0.40...v1.0.41) (2022-01-18)
 
 
