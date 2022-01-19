@@ -1,3 +1,12 @@
+## [1.0.43](https://github.com/openapi-automatons/validator/compare/v1.0.42...v1.0.43) (2022-01-19)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 16.0.2 to 16.0.3 ([#65](https://github.com/openapi-automatons/validator/issues/65)) ([b54321e](https://github.com/openapi-automatons/validator/commit/b54321ed3c5bfdfd06023f64ea525e4f4270085e))
+* **deps-dev:** bump @semantic-release/npm from 8.0.3 to 9.0.0 ([#64](https://github.com/openapi-automatons/validator/issues/64)) ([ebe2c06](https://github.com/openapi-automatons/validator/commit/ebe2c0617a836f0d583fd5d4b8b81696c9b66b14))
+* **deps-dev:** bump lint-staged from 12.2.0 to 12.2.1 ([#66](https://github.com/openapi-automatons/validator/issues/66)) ([eb5217e](https://github.com/openapi-automatons/validator/commit/eb5217ea9c4adfa162a46f8a804b821fe9997374))
+
 ## [1.0.42](https://github.com/openapi-automatons/validator/compare/v1.0.41...v1.0.42) (2022-01-18)
 
 
