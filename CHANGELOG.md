@@ -1,3 +1,13 @@
+## [1.0.45](https://github.com/openapi-automatons/validator/compare/v1.0.44...v1.0.45) (2022-01-24)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/eslint from 8.4.0 to 8.4.1 ([#71](https://github.com/openapi-automatons/validator/issues/71)) ([b0c19d9](https://github.com/openapi-automatons/validator/commit/b0c19d9434ceab2ff09d7623bd78ffb979505d99))
+* **deps-dev:** bump @typescript-eslint/parser from 5.10.0 to 5.10.1 ([#72](https://github.com/openapi-automatons/validator/issues/72)) ([39b6810](https://github.com/openapi-automatons/validator/commit/39b681080c5bc26a46546baf13abe9ab5738274c))
+* **deps-dev:** bump lint-staged from 12.2.2 to 12.3.1 ([#73](https://github.com/openapi-automatons/validator/issues/73)) ([16a4a3f](https://github.com/openapi-automatons/validator/commit/16a4a3f81b9a8c15d3a042729bd5b50ffaf3c2bb))
+* **deps:** bump @hyperjump/json-schema from 0.18.3 to 0.18.4 ([#74](https://github.com/openapi-automatons/validator/issues/74)) ([74791ee](https://github.com/openapi-automatons/validator/commit/74791ee2d0cecd5b14233f21d0f47f5a9bc0d7b6))
+
 ## [1.0.44](https://github.com/openapi-automatons/validator/compare/v1.0.43...v1.0.44) (2022-01-20)
 
 
