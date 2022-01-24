@@ -1,6 +1,6 @@
 {
   "name": "@automatons/validator",
-  "version": "1.0.44",
+  "version": "1.0.45",
   "main": "index.js",
   "author": "tanmen <yt.prog@gmail.com>",
   "license": "MIT",
@@ -18,7 +18,7 @@
     "validator"
   ],
   "dependencies": {
-    "@hyperjump/json-schema": "^0.18.3"
+    "@hyperjump/json-schema": "^0.18.4"
   },
   "devDependencies": {
     "@commitlint/cli": "^16.1.0",
