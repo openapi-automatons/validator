@@ -1,3 +1,10 @@
+## [1.0.49](https://github.com/openapi-automatons/validator/compare/v1.0.48...v1.0.49) (2022-01-27)
+
+
+### Bug Fixes
+
+* husky install ([c550e8f](https://github.com/openapi-automatons/validator/commit/c550e8f6930efde41e6975cea1bb81914ef8e9f5))
+
 ## [1.0.48](https://github.com/openapi-automatons/validator/compare/v1.0.47...v1.0.48) (2022-01-27)
 
 
