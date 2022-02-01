@@ -1,6 +1,6 @@
 {
   "name": "@automatons/validator",
-  "version": "1.0.52",
+  "version": "1.0.53",
   "main": "index.js",
   "author": "tanmen <yt.prog@gmail.com>",
   "license": "MIT",
