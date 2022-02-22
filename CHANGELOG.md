@@ -1,3 +1,10 @@
+## [1.0.61](https://github.com/openapi-automatons/validator/compare/v1.0.60...v1.0.61) (2022-02-22)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump fs-extra from 10.0.0 to 10.0.1 ([#94](https://github.com/openapi-automatons/validator/issues/94)) ([fabc7c9](https://github.com/openapi-automatons/validator/commit/fabc7c9dc4eebc3b9429a0e41a274cac4f8a1e4c))
+
 ## [1.0.60](https://github.com/openapi-automatons/validator/compare/v1.0.59...v1.0.60) (2022-02-21)
 
 
