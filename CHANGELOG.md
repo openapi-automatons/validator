@@ -1,3 +1,10 @@
+## [1.0.62](https://github.com/openapi-automatons/validator/compare/v1.0.61...v1.0.62) (2022-02-23)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/jest from 27.4.0 to 27.4.1 ([#95](https://github.com/openapi-automatons/validator/issues/95)) ([f26308e](https://github.com/openapi-automatons/validator/commit/f26308e55b56ed0f007429212a8c1489bdbf1346))
+
 ## [1.0.61](https://github.com/openapi-automatons/validator/compare/v1.0.60...v1.0.61) (2022-02-22)
 
 
