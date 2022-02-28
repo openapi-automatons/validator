@@ -1,3 +1,10 @@
+## [1.0.65](https://github.com/openapi-automatons/validator/compare/v1.0.64...v1.0.65) (2022-02-28)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#99](https://github.com/openapi-automatons/validator/issues/99)) ([c708898](https://github.com/openapi-automatons/validator/commit/c708898390057f4669e182fd64913a9538e549e4))
+
 ## [1.0.64](https://github.com/openapi-automatons/validator/compare/v1.0.63...v1.0.64) (2022-02-28)
 
 
