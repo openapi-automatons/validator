@@ -1,3 +1,11 @@
+## [1.0.63](https://github.com/openapi-automatons/validator/compare/v1.0.62...v1.0.63) (2022-02-28)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/npm from 9.0.0 to 9.0.1 ([#98](https://github.com/openapi-automatons/validator/issues/98)) ([eeb49cb](https://github.com/openapi-automatons/validator/commit/eeb49cb64cfecd87b11b7328b08996f8c06ea348))
+* **deps-dev:** bump @typescript-eslint/parser from 5.12.1 to 5.13.0 ([#97](https://github.com/openapi-automatons/validator/issues/97)) ([7b2d970](https://github.com/openapi-automatons/validator/commit/7b2d970ab2e3fa1388224d9685caf2899ecd1e87))
+
 ## [1.0.62](https://github.com/openapi-automatons/validator/compare/v1.0.61...v1.0.62) (2022-02-23)
 
 
