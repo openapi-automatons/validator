@@ -1,3 +1,12 @@
+## [1.0.73](https://github.com/openapi-automatons/validator/compare/v1.0.72...v1.0.73) (2022-03-21)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @typescript-eslint/parser from 5.15.0 to 5.16.0 ([#112](https://github.com/openapi-automatons/validator/issues/112)) ([cc16819](https://github.com/openapi-automatons/validator/commit/cc168192ebb0d527396d24658e1abed0e97e8e1d))
+* **deps-dev:** bump typesync from 0.8.0 to 0.9.0 ([#111](https://github.com/openapi-automatons/validator/issues/111)) ([17f3b0b](https://github.com/openapi-automatons/validator/commit/17f3b0b7da9111e597be70213c420260836a5368))
+* **deps-dev:** bump yarn-deduplicate from 3.1.0 to 4.0.0 ([#110](https://github.com/openapi-automatons/validator/issues/110)) ([4f0bda2](https://github.com/openapi-automatons/validator/commit/4f0bda2477d43d7e4fac2cab46c2cc56f4d8f019))
+
 ## [1.0.72](https://github.com/openapi-automatons/validator/compare/v1.0.71...v1.0.72) (2022-03-17)
 
 
