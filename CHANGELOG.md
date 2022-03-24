@@ -1,3 +1,10 @@
+## [1.0.75](https://github.com/openapi-automatons/validator/compare/v1.0.74...v1.0.75) (2022-03-24)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump ts-jest from 27.1.3 to 27.1.4 ([#114](https://github.com/openapi-automatons/validator/issues/114)) ([85c5a61](https://github.com/openapi-automatons/validator/commit/85c5a61e1001832070496dfe7e3a81f9cf3ff118))
+
 ## [1.0.74](https://github.com/openapi-automatons/validator/compare/v1.0.73...v1.0.74) (2022-03-21)
 
 
