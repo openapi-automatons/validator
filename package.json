@@ -30,7 +30,7 @@
     "@semantic-release/npm": "^9.0.1",
     "@types/eslint": "^8.4.1",
     "@types/fs-extra": "^9.0.13",
-    "@types/jest": "^27.4.1",
+    "@types/jest": "^27.5.0",
     "@types/semantic-release": "^17.2.3",
     "@typescript-eslint/eslint-plugin": "^5.22.0",
     "@typescript-eslint/parser": "^5.22.0",
