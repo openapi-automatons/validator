@@ -1,6 +1,6 @@
 {
   "name": "@automatons/validator",
-  "version": "1.0.102",
+  "version": "1.0.103",
   "main": "index.js",
   "author": "tanmen <yt.prog@gmail.com>",
   "license": "MIT",
@@ -28,7 +28,7 @@
     "@semantic-release/changelog": "^6.0.0",
     "@semantic-release/git": "^10.0.0",
     "@semantic-release/npm": "^9.0.1",
-    "@types/eslint": "^8.4.4",
+    "@types/eslint": "^8.4.5",
     "@types/fs-extra": "^9.0.13",
     "@types/jest": "^27.5.0",
     "@types/semantic-release": "^17.2.3",
