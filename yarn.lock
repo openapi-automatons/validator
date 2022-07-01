@@ -1208,10 +1208,10 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
-"@types/eslint@^8.4.4":
-  version "8.4.4"
-  resolved "https://registry.yarnpkg.com/@types/eslint/-/eslint-8.4.4.tgz#6a242a86448fede7742a0ed1f444677017db56dd"
-  integrity sha512-agaBbw9wzMWtQaS0l0R6I0pewCZNVE23QA6jJUkg7F0HFdMvPrT75fFOtG4+cxstalGqHBkYVXFHP0hTpDnhfw==
+"@types/eslint@^8.4.5":
+  version "8.4.5"
+  resolved "https://registry.yarnpkg.com/@types/eslint/-/eslint-8.4.5.tgz#acdfb7dd36b91cc5d812d7c093811a8f3d9b31e4"
+  integrity sha512-dhsC09y1gpJWnK+Ff4SGvCuSnk9DaU0BJZSzOwa6GVSg65XtTugLBITDAAzRU5duGBoXBHpdR/9jHGxJjNflJQ==
   dependencies:
     "@types/estree" "*"
     "@types/json-schema" "*"
