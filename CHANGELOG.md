@@ -1,3 +1,10 @@
+## [1.0.108](https://github.com/openapi-automatons/validator/compare/v1.0.107...v1.0.108) (2022-07-06)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typesync from 0.9.1 to 0.9.2 ([#193](https://github.com/openapi-automatons/validator/issues/193)) ([b7d88c9](https://github.com/openapi-automatons/validator/commit/b7d88c939da81b47c86ff00361badec17b848751))
+
 ## [1.0.107](https://github.com/openapi-automatons/validator/compare/v1.0.106...v1.0.107) (2022-07-04)
 
 
