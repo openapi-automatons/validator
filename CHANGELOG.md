@@ -1,3 +1,10 @@
+## [1.0.113](https://github.com/openapi-automatons/validator/compare/v1.0.112...v1.0.113) (2022-07-19)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/semantic-release from 17.2.3 to 17.2.4 ([#199](https://github.com/openapi-automatons/validator/issues/199)) ([fa3c04c](https://github.com/openapi-automatons/validator/commit/fa3c04ce0d85e97bb41e1fc4e6f4f3c1c7e9ad60))
+
 ## [1.0.112](https://github.com/openapi-automatons/validator/compare/v1.0.111...v1.0.112) (2022-07-18)
 
 
