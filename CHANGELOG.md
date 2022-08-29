@@ -1,3 +1,10 @@
+## [1.0.128](https://github.com/openapi-automatons/validator/compare/v1.0.127...v1.0.128) (2022-08-29)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump yarn-deduplicate from 5.0.2 to 6.0.0 ([#222](https://github.com/openapi-automatons/validator/issues/222)) ([eb8892e](https://github.com/openapi-automatons/validator/commit/eb8892e7ce2a4fb6cc6fda5604130cd5c0d55935))
+
 ## [1.0.127](https://github.com/openapi-automatons/validator/compare/v1.0.126...v1.0.127) (2022-08-29)
 
 
