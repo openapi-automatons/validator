@@ -1,3 +1,11 @@
+## [1.0.127](https://github.com/openapi-automatons/validator/compare/v1.0.126...v1.0.127) (2022-08-29)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/config-conventional ([#220](https://github.com/openapi-automatons/validator/issues/220)) ([f51407f](https://github.com/openapi-automatons/validator/commit/f51407fe5d46b8ff7d729909d1b71e1513081b94))
+* **deps-dev:** bump eslint from 8.22.0 to 8.23.0 ([#219](https://github.com/openapi-automatons/validator/issues/219)) ([e78db46](https://github.com/openapi-automatons/validator/commit/e78db4683000bfd42851ff873869d58fdc41aaae))
+
 ## [1.0.126](https://github.com/openapi-automatons/validator/compare/v1.0.125...v1.0.126) (2022-08-26)
 
 
