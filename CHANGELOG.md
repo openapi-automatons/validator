@@ -1,3 +1,10 @@
+## [1.0.134](https://github.com/openapi-automatons/validator/compare/v1.0.133...v1.0.134) (2022-09-08)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typescript from 4.8.2 to 4.8.3 ([#227](https://github.com/openapi-automatons/validator/issues/227)) ([737e598](https://github.com/openapi-automatons/validator/commit/737e598b582fe475aa59795eb6344c982a89901a))
+
 ## [1.0.133](https://github.com/openapi-automatons/validator/compare/v1.0.132...v1.0.133) (2022-09-05)
 
 
