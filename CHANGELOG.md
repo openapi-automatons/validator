@@ -1,3 +1,10 @@
+## [1.0.155](https://github.com/openapi-automatons/validator/compare/v1.0.154...v1.0.155) (2022-10-31)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/config-conventional ([#251](https://github.com/openapi-automatons/validator/issues/251)) ([5faf418](https://github.com/openapi-automatons/validator/commit/5faf418053c7181d79a9acff9e397bbfb5db158f))
+
 ## [1.0.154](https://github.com/openapi-automatons/validator/compare/v1.0.153...v1.0.154) (2022-10-31)
 
 
