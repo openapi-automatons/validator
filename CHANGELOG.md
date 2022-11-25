@@ -1,3 +1,10 @@
+## [1.0.165](https://github.com/openapi-automatons/validator/compare/v1.0.164...v1.0.165) (2022-11-25)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 13.0.3 to 13.0.4 ([#266](https://github.com/openapi-automatons/validator/issues/266)) ([8028069](https://github.com/openapi-automatons/validator/commit/8028069f12aad1bc950371cd53df5a50ca5e4569))
+
 ## [1.0.164](https://github.com/openapi-automatons/validator/compare/v1.0.163...v1.0.164) (2022-11-22)
 
 
