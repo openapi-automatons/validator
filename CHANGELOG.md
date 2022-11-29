@@ -1,3 +1,10 @@
+## [1.0.168](https://github.com/openapi-automatons/validator/compare/v1.0.167...v1.0.168) (2022-11-29)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/changelog from 6.0.1 to 6.0.2 ([#270](https://github.com/openapi-automatons/validator/issues/270)) ([b495e50](https://github.com/openapi-automatons/validator/commit/b495e50fd49e170e37b453c44cb830df84e0f834))
+
 ## [1.0.167](https://github.com/openapi-automatons/validator/compare/v1.0.166...v1.0.167) (2022-11-29)
 
 
