@@ -1,3 +1,10 @@
+## [1.0.184](https://github.com/openapi-automatons/validator/compare/v1.0.183...v1.0.184) (2023-01-03)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump husky from 8.0.2 to 8.0.3 ([#289](https://github.com/openapi-automatons/validator/issues/289)) ([29a1c61](https://github.com/openapi-automatons/validator/commit/29a1c61ee18869097845906adc494dd716fe81c5))
+
 ## [1.0.183](https://github.com/openapi-automatons/validator/compare/v1.0.182...v1.0.183) (2023-01-02)
 
 
