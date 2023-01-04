@@ -1,3 +1,10 @@
+## [1.0.185](https://github.com/openapi-automatons/validator/compare/v1.0.184...v1.0.185) (2023-01-04)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 17.3.0 to 17.4.0 ([#290](https://github.com/openapi-automatons/validator/issues/290)) ([e682bb0](https://github.com/openapi-automatons/validator/commit/e682bb0f7e20f0153d89739b785f32627bc7128a))
+
 ## [1.0.184](https://github.com/openapi-automatons/validator/compare/v1.0.183...v1.0.184) (2023-01-03)
 
 
