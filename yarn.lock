@@ -6151,13 +6151,13 @@ scss-parser@^1.0.4:
   dependencies:
     invariant "2.2.4"
 
-semantic-release@^21.0.3:
-  version "21.0.3"
-  resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-21.0.3.tgz#e1c584dd045024a1372a5bf51b60d23fe5e26893"
-  integrity sha512-DS/0P1DrL8cKpkhN7JCzhkbOge9sURSRqUlmEAjeXTzK0lOSWhp+oJJcji0bLFEIyu3DuYEeQrWCdJNwRHrFdw==
+semantic-release@^21.0.4:
+  version "21.0.4"
+  resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-21.0.4.tgz#d8841b87747385af1abc38ea3803dc4dc5fc34aa"
+  integrity sha512-SQD0l3GrZqd72NEFFjf7VhFz7KXEjcaZr0q5yZYJ0WFV1N/YxIrBejY9HOskb8VBo37Y7/HcAN1yiKpLsTzxoQ==
   dependencies:
     "@semantic-release/commit-analyzer" "^10.0.0"
-    "@semantic-release/error" "^3.0.0"
+    "@semantic-release/error" "^4.0.0"
     "@semantic-release/github" "^9.0.0"
     "@semantic-release/npm" "^10.0.2"
     "@semantic-release/release-notes-generator" "^11.0.0"
