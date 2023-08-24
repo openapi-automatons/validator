@@ -35,7 +35,7 @@
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
     "cp": "^0.2.0",
-    "depcheck": "^1.4.3",
+    "depcheck": "^1.4.5",
     "eslint": "^8.47.0",
     "eslint-config-google": "^0.14.0",
     "fs-extra": "^11.1.1",
