@@ -1540,10 +1540,10 @@
   resolved "https://registry.yarnpkg.com/@types/prettier/-/prettier-2.4.1.tgz#e1303048d5389563e130f5bdd89d37a99acb75eb"
   integrity sha512-Fo79ojj3vdEZOHg3wR9ksAMRz4P3S5fDB5e/YWZiFnyFQI1WY2Vftu9XoXVVtJfxB7Bpce/QTqWSSntkz2Znrw==
 
-"@types/semantic-release@^20.0.1":
-  version "20.0.1"
-  resolved "https://registry.yarnpkg.com/@types/semantic-release/-/semantic-release-20.0.1.tgz#9bb6291194e9f0a8a2175df80b1b746499d14d1d"
-  integrity sha512-rANSSye4mYTnP6szFSFUPl9GEowqxKjfKKnE06/axdgOLIL3pQNB4u3gXelZ2wiL6J6Clzb8PSyX8Bbv/JOPHw==
+"@types/semantic-release@^20.0.2":
+  version "20.0.2"
+  resolved "https://registry.yarnpkg.com/@types/semantic-release/-/semantic-release-20.0.2.tgz#548b31f19928a5edf2303aa73d361a1b1e52061d"
+  integrity sha512-Y2WPZlkiOkHEvGJeY613pwnJ3JIa82AsDTa2ZPFV4btQbetWX3lunCvYtvMSbit/vOgqmIcXVMRFcx1zo49wdw==
   dependencies:
     "@types/node" "*"
 
