@@ -1529,12 +1529,7 @@
   resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.2.tgz#ee771e2ba4b3dc5b372935d549fd9617bf345b8c"
   integrity sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==
 
-"@types/node@*":
-  version "20.4.7"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.4.7.tgz#74d323a93f1391a63477b27b9aec56669c98b2ab"
-  integrity sha512-bUBrPjEry2QUTsnuEjzjbS7voGWCc30W0qzgMf90GPeDGFRakvrz47ju+oqDAKCXLUCe39u57/ORMl/O/04/9g==
-
-"@types/node@20.5.1":
+"@types/node@*", "@types/node@20.5.1":
   version "20.5.1"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.1.tgz#178d58ee7e4834152b0e8b4d30cbfab578b9bb30"
   integrity sha512-4tT2UrL5LBqDwoed9wZ6N3umC4Yhz3W3FloMmiiG4JwmUJWpie0c7lcnUNd4gtMKuDEO4wRVS8B6Xa0uMRsMKg==
@@ -1554,10 +1549,10 @@
   resolved "https://registry.yarnpkg.com/@types/prettier/-/prettier-2.4.1.tgz#e1303048d5389563e130f5bdd89d37a99acb75eb"
   integrity sha512-Fo79ojj3vdEZOHg3wR9ksAMRz4P3S5fDB5e/YWZiFnyFQI1WY2Vftu9XoXVVtJfxB7Bpce/QTqWSSntkz2Znrw==
 
-"@types/semantic-release@^20.0.2":
-  version "20.0.2"
-  resolved "https://registry.yarnpkg.com/@types/semantic-release/-/semantic-release-20.0.2.tgz#548b31f19928a5edf2303aa73d361a1b1e52061d"
-  integrity sha512-Y2WPZlkiOkHEvGJeY613pwnJ3JIa82AsDTa2ZPFV4btQbetWX3lunCvYtvMSbit/vOgqmIcXVMRFcx1zo49wdw==
+"@types/semantic-release@^20.0.4":
+  version "20.0.4"
+  resolved "https://registry.yarnpkg.com/@types/semantic-release/-/semantic-release-20.0.4.tgz#386a72b565344830d7af6bf6fdc1e770c12f32c6"
+  integrity sha512-9zjlWBYjlRKKOtCu7mEcUTu5Ii5nRAujRe841R6ZfwzhLFCa+BGMdWMImzXZDeVj0ODpI37pO0FSKpMiR7sdww==
   dependencies:
     "@types/node" "*"
 
