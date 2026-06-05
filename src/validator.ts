@@ -31,8 +31,8 @@ export type Validate = {
 const errorExtractor = (result: Result): Validate[] => {
   if (!result.errors || result.errors?.length === 0) {
     return [{
-      keyword: result.keyword.split('#').slice(-1, 2)?.[0],
-      rule: result.absoluteKeywordLocation.split('#').slice(-1, 2)?.[0],
+      keyword: result.keyword.split('#').slice(-1, 2)[0] ?? '',
+      rule: result.absoluteKeywordLocation.split('#').slice(-1, 2)[0] ?? '',
       location: result.instanceLocation,
     }];
   }
