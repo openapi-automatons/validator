@@ -1,5 +1,5 @@
-import JsonSchema, {SchemaDocument} from '@hyperjump/json-schema';
-import {Result} from '@hyperjump/json-schema-core/lib/core';
+import JsonSchema, {type SchemaDocument} from '@hyperjump/json-schema';
+import type {Result} from '@hyperjump/json-schema-core/lib/core';
 import v3_1 from './schemas/v3_1.json';
 import v3_0 from './schemas/v3_0.json';
 

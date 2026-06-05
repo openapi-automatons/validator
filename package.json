@@ -1,18 +1,29 @@
 {
   "name": "@automatons/validator",
   "version": "1.0.186",
-  "main": "index.js",
   "author": "tanmen <yt.prog@gmail.com>",
   "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js"
+    }
+  },
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
-    "prebuild": "depcheck && node scripts/prebuild.js",
-    "build": "tsc && cp package.json README.md LICENSE dist",
-    "lint": "eslint src --ext .ts,.tsx",
-    "test": "jest",
-    "postinstall": "husky install && typesync && yarn check --integrity || yarn install --ignore-scripts && yarn-deduplicate",
-    "prepublishOnly": "pinst --disable",
-    "postpublish": "pinst --enable",
-    "postversion": "cp package.json ../package.json"
+    "prebuild": "depcheck",
+    "build": "tsup && cp package.json README.md LICENSE dist",
+    "lint": "eslint src",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "prepare": "husky"
   },
   "keywords": [
     "openapi",
@@ -24,30 +35,21 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^21.0.2",
-    "@commitlint/config-conventional": "^20.5.3",
+    "@commitlint/config-conventional": "^21.0.2",
+    "@eslint/js": "^9.39.0",
     "@semantic-release/changelog": "^6.0.3",
-    "@semantic-release/git": "^10.0.0",
-    "@semantic-release/npm": "^13.1.5",
-    "@types/eslint": "^8.56.7",
-    "@types/fs-extra": "^11.0.4",
-    "@types/jest": "^27.5.0",
-    "@types/semantic-release": "^21.1.0",
-    "@typescript-eslint/eslint-plugin": "^7.0.0",
-    "@typescript-eslint/parser": "^6.21.0",
-    "cp": "^0.2.0",
+    "@semantic-release/git": "^10.0.1",
+    "@types/node": "^24.0.0",
+    "@vitest/coverage-v8": "^3.2.0",
     "depcheck": "^1.4.7",
-    "eslint": "^8.57.0",
-    "eslint-config-google": "^0.14.0",
-    "fs-extra": "^11.3.5",
+    "eslint": "^9.39.0",
     "husky": "^9.1.7",
-    "jest": "^27.5.1",
-    "lint-staged": "^14.0.1",
-    "pinst": "^3.0.0",
+    "lint-staged": "^17.0.7",
     "semantic-release": "^25.0.3",
-    "ts-jest": "^27.1.4",
-    "typescript": "^4.8.4",
-    "typesync": "^0.14.3",
-    "yarn-deduplicate": "^6.0.2"
+    "tsup": "^8.5.0",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.46.0",
+    "vitest": "^3.2.0"
   },
   "publishConfig": {
     "access": "public"
