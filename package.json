@@ -1,6 +1,7 @@
 {
   "name": "@automatons/validator",
   "version": "1.0.186",
+  "repository": "https://github.com/openapi-automatons/validator.git",
   "author": "tanmen <yt.prog@gmail.com>",
   "license": "MIT",
   "packageManager": "yarn@1.22.22",
