@@ -1,5 +1,5 @@
-import JsonSchema, {SchemaDocument} from '@hyperjump/json-schema';
-import {Result} from '@hyperjump/json-schema-core/lib/core';
+import JsonSchema, {type SchemaDocument} from '@hyperjump/json-schema';
+import type {Result} from '@hyperjump/json-schema-core/lib/core';
 import v3_1 from './schemas/v3_1.json';
 import v3_0 from './schemas/v3_0.json';
 
@@ -31,8 +31,8 @@ export type Validate = {
 const errorExtractor = (result: Result): Validate[] => {
   if (!result.errors || result.errors?.length === 0) {
     return [{
-      keyword: result.keyword.split('#').slice(-1, 2)?.[0],
-      rule: result.absoluteKeywordLocation.split('#').slice(-1, 2)?.[0],
+      keyword: result.keyword.split('#').slice(-1, 2)[0] ?? '',
+      rule: result.absoluteKeywordLocation.split('#').slice(-1, 2)[0] ?? '',
       location: result.instanceLocation,
     }];
   }
