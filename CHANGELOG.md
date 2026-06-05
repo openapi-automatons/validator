@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/openapi-automatons/validator/compare/v2.1.0...v2.2.0) (2026-06-05)
+
+
+### Features
+
+* accept OpenAPI 3.2 documents ([#610](https://github.com/openapi-automatons/validator/issues/610)) ([324c3c2](https://github.com/openapi-automatons/validator/commit/324c3c2d1cdab4df4137b514bae4dca0d2383be2))
+
 # [2.1.0](https://github.com/openapi-automatons/validator/compare/v2.0.1...v2.1.0) (2026-06-05)
 
 
