@@ -33,7 +33,8 @@
     "validator"
   ],
   "dependencies": {
-    "@hyperjump/json-schema": "^0.18.5"
+    "@hyperjump/browser": "^1",
+    "@hyperjump/json-schema": "^1"
   },
   "devDependencies": {
     "@commitlint/cli": "^21.0.2",

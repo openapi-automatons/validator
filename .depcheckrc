@@ -1,1 +1,1 @@
-ignores: ["@commitlint/*","@types/*","@semantic-release/*","semantic-release","@hyperjump/json-schema-core","lint-staged","typescript","@vitest/coverage-v8"]
+ignores: ["@commitlint/*","@types/*","@semantic-release/*","semantic-release","@hyperjump/browser","@hyperjump/json-pointer","lint-staged","typescript","@vitest/coverage-v8"]
