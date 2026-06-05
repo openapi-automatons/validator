@@ -1,5 +1,6 @@
 import {validator} from '../validator';
 import v3_1_webhooks from './examples/v3_1/webhooks.json';
+import v3_2_server_name from './examples/v3_2/server-name.json';
 import v3_0_api_with_examples from './examples/v3_0/api-with-examples.json';
 import v3_0_callback_example from './examples/v3_0/callback-example.json';
 import v3_0_link_example from './examples/v3_0/link-example.json';
@@ -10,6 +11,10 @@ import invalid_schema from './examples/invalid_schema.json';
 
 test('v3.1', async () => {
   const result = await validator(v3_1_webhooks);
+  expect(result.valid).toBeTruthy();
+});
+test('v3.2 server name', async () => {
+  const result = await validator(v3_2_server_name);
   expect(result.valid).toBeTruthy();
 });
 test('v3.0 api-with-examples', async () => {
@@ -38,7 +43,7 @@ test('v3.0 uspto', async () => {
 });
 test('invalid version', () => {
   expect(validator({openapi: '2.0.0'})).rejects
-    .toThrow('Not supported version.\nopenapi version 3.0.0 >= version < 3.2.0');
+    .toThrow('Not supported version.\nopenapi version 3.0.0 >= version < 3.3.0');
 });
 test('invalid schema', async () => {
   const result = await validator(invalid_schema);
