@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/openapi-automatons/validator/compare/v2.0.0...v2.0.1) (2026-06-05)
+
+
+### Bug Fixes
+
+* add https repository url and trigger a fresh release run ([913b5a2](https://github.com/openapi-automatons/validator/commit/913b5a27955e43c67afbd8c088cdc53fb3ca3f58))
+
 # [2.0.0](https://github.com/openapi-automatons/validator/compare/v1.0.186...v2.0.0) (2026-06-05)
 
 
