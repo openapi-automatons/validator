@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/openapi-automatons/validator/compare/v2.0.1...v2.1.0) (2026-06-05)
+
+
+### Features
+
+* upgrade @hyperjump/json-schema to v1 with built-in OpenAPI modules ([dfccc76](https://github.com/openapi-automatons/validator/commit/dfccc764d835ec7aa09c1977232cbf4329aeeb55))
+
 ## [2.0.1](https://github.com/openapi-automatons/validator/compare/v2.0.0...v2.0.1) (2026-06-05)
 
 
