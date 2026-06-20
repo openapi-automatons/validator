@@ -1,3 +1,10 @@
+## [2.2.10](https://github.com/openapi-automatons/validator/compare/v2.2.9...v2.2.10) (2026-06-20)
+
+
+### Bug Fixes
+
+* **deps:** bump tar from 7.5.13 to 7.5.16 ([#621](https://github.com/openapi-automatons/validator/issues/621)) ([3815879](https://github.com/openapi-automatons/validator/commit/381587988447da0621172c3ddde8e37e1df6d4d3))
+
 ## [2.2.9](https://github.com/openapi-automatons/validator/compare/v2.2.8...v2.2.9) (2026-06-19)
 
 
