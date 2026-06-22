@@ -1,3 +1,10 @@
+## [2.2.11](https://github.com/openapi-automatons/validator/compare/v2.2.10...v2.2.11) (2026-06-22)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.0.7 to 17.0.8 ([#622](https://github.com/openapi-automatons/validator/issues/622)) ([357ea21](https://github.com/openapi-automatons/validator/commit/357ea217d3f1c3f8bc86b699298849f3727b7cef))
+
 ## [2.2.10](https://github.com/openapi-automatons/validator/compare/v2.2.9...v2.2.10) (2026-06-20)
 
 
