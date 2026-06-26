@@ -1,3 +1,10 @@
+## [2.2.16](https://github.com/openapi-automatons/validator/compare/v2.2.15...v2.2.16) (2026-06-26)
+
+
+### Bug Fixes
+
+* **deps:** bump @sigstore/core from 3.2.0 to 3.2.1 ([#628](https://github.com/openapi-automatons/validator/issues/628)) ([f0f1794](https://github.com/openapi-automatons/validator/commit/f0f17949080adc3adabc8cc8ea796fbbdfd03c86))
+
 ## [2.2.15](https://github.com/openapi-automatons/validator/compare/v2.2.14...v2.2.15) (2026-06-26)
 
 
