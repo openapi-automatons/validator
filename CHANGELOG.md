@@ -1,3 +1,11 @@
+## [2.2.17](https://github.com/openapi-automatons/validator/compare/v2.2.16...v2.2.17) (2026-06-29)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typescript-eslint from 8.62.0 to 8.62.1 ([#629](https://github.com/openapi-automatons/validator/issues/629)) ([2efc3e1](https://github.com/openapi-automatons/validator/commit/2efc3e11a99f6ab9c722b5114989762ee25ba442))
+* **deps:** bump @hyperjump/browser from 1.3.1 to 1.4.0 ([#630](https://github.com/openapi-automatons/validator/issues/630)) ([b89b8cb](https://github.com/openapi-automatons/validator/commit/b89b8cb89a81b6aa48dbf9a417fa7c0c95f8707b))
+
 ## [2.2.16](https://github.com/openapi-automatons/validator/compare/v2.2.15...v2.2.16) (2026-06-26)
 
 
