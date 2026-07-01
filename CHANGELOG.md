@@ -1,3 +1,10 @@
+## [2.2.20](https://github.com/openapi-automatons/validator/compare/v2.2.19...v2.2.20) (2026-07-01)
+
+
+### Bug Fixes
+
+* **deps:** bump @sigstore/verify from 3.1.0 to 3.1.1 ([#634](https://github.com/openapi-automatons/validator/issues/634)) ([7ff86d9](https://github.com/openapi-automatons/validator/commit/7ff86d9648f92c8572ca19a513ae18afcb24e59a))
+
 ## [2.2.19](https://github.com/openapi-automatons/validator/compare/v2.2.18...v2.2.19) (2026-07-01)
 
 
