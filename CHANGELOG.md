@@ -1,3 +1,10 @@
+## [2.2.21](https://github.com/openapi-automatons/validator/compare/v2.2.20...v2.2.21) (2026-07-01)
+
+
+### Bug Fixes
+
+* **deps:** bump sigstore from 4.1.0 to 4.1.1 ([#635](https://github.com/openapi-automatons/validator/issues/635)) ([bc2e82f](https://github.com/openapi-automatons/validator/commit/bc2e82f4cff1addfa061dcf93ced002cd27f8827))
+
 ## [2.2.20](https://github.com/openapi-automatons/validator/compare/v2.2.19...v2.2.20) (2026-07-01)
 
 
