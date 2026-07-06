@@ -636,9 +636,9 @@
     idn-hostname "^15.1.2"
 
 "@hyperjump/json-schema@^1":
-  version "1.17.6"
-  resolved "https://registry.yarnpkg.com/@hyperjump/json-schema/-/json-schema-1.17.6.tgz#92f8ffe9d935177a789efa67e1d5706aacca7af6"
-  integrity sha512-m0QggWCn58IACqLi3fqI9cuUrFju79DVAxjkDENo+xgE26963rudPMwKwwlkZkB+JqAgu+OGvJAMfE1toevfGw==
+  version "1.17.7"
+  resolved "https://registry.yarnpkg.com/@hyperjump/json-schema/-/json-schema-1.17.7.tgz#861b9e50b5ab0495b38970924501b0bab31f7efb"
+  integrity sha512-CP4OTm4y5U200z3Ir6SAQk9aGM61m1LZpd4TMNXTZbOgHg02TvYFhtQLQcG2WPx6nmmM6DPS9ha+N7poY6e+uA==
   dependencies:
     "@hyperjump/json-pointer" "^1.1.0"
     "@hyperjump/json-schema-formats" "^1.0.0"
