@@ -1,3 +1,10 @@
+## [2.2.22](https://github.com/openapi-automatons/validator/compare/v2.2.21...v2.2.22) (2026-07-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @hyperjump/json-schema from 1.17.6 to 1.17.7 ([#636](https://github.com/openapi-automatons/validator/issues/636)) ([bb8655b](https://github.com/openapi-automatons/validator/commit/bb8655b1ce557eba08961d8c64048e98a4a28e2d))
+
 ## [2.2.21](https://github.com/openapi-automatons/validator/compare/v2.2.20...v2.2.21) (2026-07-01)
 
 
