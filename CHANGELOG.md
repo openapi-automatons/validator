@@ -1,3 +1,10 @@
+## [2.2.24](https://github.com/openapi-automatons/validator/compare/v2.2.23...v2.2.24) (2026-07-08)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 26.1.0 to 26.1.1 ([#638](https://github.com/openapi-automatons/validator/issues/638)) ([e586543](https://github.com/openapi-automatons/validator/commit/e586543a79b7b14a04e95c589159141714a0c7ae))
+
 ## [2.2.23](https://github.com/openapi-automatons/validator/compare/v2.2.22...v2.2.23) (2026-07-06)
 
 
