@@ -1,3 +1,10 @@
+## [2.2.28](https://github.com/openapi-automatons/validator/compare/v2.2.27...v2.2.28) (2026-07-13)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 25.0.5 to 25.0.7 ([#642](https://github.com/openapi-automatons/validator/issues/642)) ([37d641f](https://github.com/openapi-automatons/validator/commit/37d641f696862d094c4a8fe66e53e45ebd01ac70))
+
 ## [2.2.27](https://github.com/openapi-automatons/validator/compare/v2.2.26...v2.2.27) (2026-07-13)
 
 
