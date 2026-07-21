@@ -1,3 +1,11 @@
+## [2.2.32](https://github.com/[secure]-automatons/[secure]/compare/v2.2.31...v2.2.32) (2026-07-21)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/changelog from 6.0.3 to 7.0.0 ([#647](https://github.com/[secure]-automatons/[secure]/issues/647)) ([d129c6e](https://github.com/[secure]-automatons/[secure]/commit/d129c6ee78295b1fcbafc80e6901acb8872fd81d))
+* **deps:** bump tar from 7.5.16 to 7.5.20 ([#648](https://github.com/[secure]-automatons/[secure]/issues/648)) ([27e3115](https://github.com/[secure]-automatons/[secure]/commit/27e3115a875177638868b228a3d490413530edbc))
+
 ## [2.2.31](https://github.com/[secure]-automatons/[secure]/compare/v2.2.30...v2.2.31) (2026-07-21)
 
 
