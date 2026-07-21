@@ -1,3 +1,10 @@
+## [2.2.31](https://github.com/[secure]-automatons/[secure]/compare/v2.2.30...v2.2.31) (2026-07-21)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/git from 10.0.1 to 11.0.0 ([#646](https://github.com/[secure]-automatons/[secure]/issues/646)) ([81d9406](https://github.com/[secure]-automatons/[secure]/commit/81d9406f150c18228bb74f70e311c3053f1734f3))
+
 ## [2.2.30](https://github.com/[secure]-automatons/[secure]/compare/v2.2.29...v2.2.30) (2026-07-20)
 
 
