@@ -1,3 +1,10 @@
+## [2.2.38](https://github.com/[secure]-automatons/[secure]/compare/v2.2.37...v2.2.38) (2026-07-23)
+
+
+### Bug Fixes
+
+* **deps:** bump handlebars from 4.7.8 to 4.7.9 ([#654](https://github.com/[secure]-automatons/[secure]/issues/654)) ([35a88c8](https://github.com/[secure]-automatons/[secure]/commit/35a88c8c7d9eed09bec4ac6c81d936406fb99928))
+
 ## [2.2.37](https://github.com/[secure]-automatons/[secure]/compare/v2.2.36...v2.2.37) (2026-07-23)
 
 
