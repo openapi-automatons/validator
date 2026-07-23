@@ -1,3 +1,10 @@
+## [2.2.35](https://github.com/[secure]-automatons/[secure]/compare/v2.2.34...v2.2.35) (2026-07-23)
+
+
+### Bug Fixes
+
+* **deps:** bump braces from 3.0.2 to 3.0.3 ([#651](https://github.com/[secure]-automatons/[secure]/issues/651)) ([373a21d](https://github.com/[secure]-automatons/[secure]/commit/373a21d8bd5e2a5d42779a723ed8591bcc680274))
+
 ## [2.2.34](https://github.com/[secure]-automatons/[secure]/compare/v2.2.33...v2.2.34) (2026-07-23)
 
 
