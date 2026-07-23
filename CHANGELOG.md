@@ -1,3 +1,12 @@
+## [2.2.39](https://github.com/[secure]-automatons/[secure]/compare/v2.2.38...v2.2.39) (2026-07-23)
+
+
+### Bug Fixes
+
+* **deps:** bump ip-address from 10.1.0 to 10.2.0 ([#656](https://github.com/[secure]-automatons/[secure]/issues/656)) ([c351322](https://github.com/[secure]-automatons/[secure]/commit/c351322dfdea3626b8d193e4bef5da76f0cccb62))
+* **deps:** bump minimist from 1.2.5 to 1.2.8 ([#657](https://github.com/[secure]-automatons/[secure]/issues/657)) ([410097a](https://github.com/[secure]-automatons/[secure]/commit/410097ac250ae5256892766062e6a79c71796e06))
+* **deps:** bump postcss from 8.3.11 to 8.5.22 ([#655](https://github.com/[secure]-automatons/[secure]/issues/655)) ([715e39f](https://github.com/[secure]-automatons/[secure]/commit/715e39ff2d9ec9a4bc33725a36f39dfb2b025734))
+
 ## [2.2.38](https://github.com/[secure]-automatons/[secure]/compare/v2.2.37...v2.2.38) (2026-07-23)
 
 
