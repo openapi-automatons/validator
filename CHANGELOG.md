@@ -1,3 +1,10 @@
+## [2.2.37](https://github.com/[secure]-automatons/[secure]/compare/v2.2.36...v2.2.37) (2026-07-23)
+
+
+### Bug Fixes
+
+* **deps:** bump lodash-es from 4.17.21 to 4.18.1 ([#653](https://github.com/[secure]-automatons/[secure]/issues/653)) ([0c4903d](https://github.com/[secure]-automatons/[secure]/commit/0c4903d30eb4faf2a18a2b65323a094d48747e2c))
+
 ## [2.2.36](https://github.com/[secure]-automatons/[secure]/compare/v2.2.35...v2.2.36) (2026-07-23)
 
 
