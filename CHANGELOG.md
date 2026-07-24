@@ -1,3 +1,11 @@
+## [2.2.40](https://github.com/[secure]-automatons/[secure]/compare/v2.2.39...v2.2.40) (2026-07-24)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/git from 11.0.0 to 11.0.1 ([#658](https://github.com/[secure]-automatons/[secure]/issues/658)) ([ccb8814](https://github.com/[secure]-automatons/[secure]/commit/ccb8814b530d8bcdf6276c57706b2f5ba0625d6e))
+* **deps-dev:** bump eslint from 10.7.0 to 10.8.0 ([#659](https://github.com/[secure]-automatons/[secure]/issues/659)) ([17e0f20](https://github.com/[secure]-automatons/[secure]/commit/17e0f20fbff7e12687e4061a2950d9e0ebb99be1))
+
 ## [2.2.39](https://github.com/[secure]-automatons/[secure]/compare/v2.2.38...v2.2.39) (2026-07-23)
 
 
