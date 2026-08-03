@@ -1,3 +1,10 @@
+## [2.2.44](https://github.com/[secure]-automatons/[secure]/compare/v2.2.43...v2.2.44) (2026-08-03)
+
+
+### Bug Fixes
+
+* **deps:** bump postcss from 8.5.22 to 8.5.25 ([#663](https://github.com/[secure]-automatons/[secure]/issues/663)) ([aa5c8df](https://github.com/[secure]-automatons/[secure]/commit/aa5c8dfec000ff1a83dc908272c63e6dc0647698))
+
 ## [2.2.43](https://github.com/[secure]-automatons/[secure]/compare/v2.2.42...v2.2.43) (2026-08-03)
 
 
