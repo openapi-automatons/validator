@@ -1,3 +1,10 @@
+## [2.2.45](https://github.com/[secure]-automatons/[secure]/compare/v2.2.44...v2.2.45) (2026-09-01)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 25.0.8 to 25.0.9 ([#666](https://github.com/[secure]-automatons/[secure]/issues/666)) ([22ea715](https://github.com/[secure]-automatons/[secure]/commit/22ea715c3a51176f364afc6bfca7737150f5dd03))
+
 ## [2.2.44](https://github.com/[secure]-automatons/[secure]/compare/v2.2.43...v2.2.44) (2026-08-03)
 
 
