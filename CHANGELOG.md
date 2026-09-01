@@ -1,3 +1,10 @@
+## [2.2.49](https://github.com/[secure]-automatons/[secure]/compare/v2.2.48...v2.2.49) (2026-09-01)
+
+
+### Bug Fixes
+
+* **deps:** bump @hyperjump/browser from 1.4.0 to 1.5.0 ([#665](https://github.com/[secure]-automatons/[secure]/issues/665)) ([aa9e53d](https://github.com/[secure]-automatons/[secure]/commit/aa9e53d53d71319ac7fdf948d4bae236a213033c))
+
 ## [2.2.48](https://github.com/[secure]-automatons/[secure]/compare/v2.2.47...v2.2.48) (2026-09-01)
 
 
