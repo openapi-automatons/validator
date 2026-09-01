@@ -1,3 +1,10 @@
+## [2.2.47](https://github.com/[secure]-automatons/[secure]/compare/v2.2.46...v2.2.47) (2026-09-01)
+
+
+### Bug Fixes
+
+* **deps:** bump @hyperjump/json-schema from 1.17.7 to 1.17.8 ([#668](https://github.com/[secure]-automatons/[secure]/issues/668)) ([3b2c8ec](https://github.com/[secure]-automatons/[secure]/commit/3b2c8ec67992acbf99e4edee832bdd40d97f93e4))
+
 ## [2.2.46](https://github.com/[secure]-automatons/[secure]/compare/v2.2.45...v2.2.46) (2026-09-01)
 
 
