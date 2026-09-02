@@ -1,3 +1,17 @@
+## [2.2.52](https://github.com/[secure]-automatons/[secure]/compare/v2.2.51...v2.2.52) (2026-09-02)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.3.0 to 17.4.1 ([#672](https://github.com/[secure]-automatons/[secure]/issues/672)) ([9397a72](https://github.com/[secure]-automatons/[secure]/commit/9397a723c4755a98fa67ab98fccbba52588d7afe))
+
+## [2.2.51](https://github.com/[secure]-automatons/[secure]/compare/v2.2.50...v2.2.51) (2026-09-02)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 21.2.1 to 21.2.2 ([#670](https://github.com/[secure]-automatons/[secure]/issues/670)) ([0591655](https://github.com/[secure]-automatons/[secure]/commit/059165532a1672eabcf89ca1fc34933fc32f7c7f))
+
 ## [2.2.50](https://github.com/[secure]-automatons/[secure]/compare/v2.2.49...v2.2.50) (2026-09-01)
 
 
