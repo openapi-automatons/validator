@@ -1,3 +1,11 @@
+## [2.2.53](https://github.com/[secure]-automatons/[secure]/compare/v2.2.52...v2.2.53) (2026-09-02)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 26.1.2 to 26.4.0 ([#673](https://github.com/[secure]-automatons/[secure]/issues/673)) ([aa4982d](https://github.com/[secure]-automatons/[secure]/commit/aa4982d1774da3394b35557d9d9792f54bc50571))
+* **deps-dev:** bump eslint from 10.8.1 to 10.9.1 ([#674](https://github.com/[secure]-automatons/[secure]/issues/674)) ([af64bd0](https://github.com/[secure]-automatons/[secure]/commit/af64bd0c622ca721c8a4a6440033a8c88fe5c368))
+
 ## [2.2.52](https://github.com/[secure]-automatons/[secure]/compare/v2.2.51...v2.2.52) (2026-09-02)
 
 
