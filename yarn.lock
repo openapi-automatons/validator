@@ -631,14 +631,13 @@
   integrity sha512-bV0Tgo9K4hfPCek+aMAn81RppFKv2ySDQeMoSZuvTASywNTnVJCArCZE2FWqpvIatKu7VMRLWlR1EazvVhDyhQ==
 
 "@hyperjump/browser@^1":
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/@hyperjump/browser/-/browser-1.5.0.tgz#906ca6d895285441aeead096bbb54ce26209c9ce"
-  integrity sha512-h+fGXfmMOAxYjd2aZ4Y5jpP2WRi0TAkBmKNtoNJKcJLOahNrurwHEUgd1/jO2Hs2j/b/G1EhX0edX8ntXkH2MA==
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@hyperjump/browser/-/browser-1.5.1.tgz#75052ab9f15e9511f02b77eb47c4e9dbbc43f6fc"
+  integrity sha512-dMuhTjbQLQbF5IcsWP1kEfI7B0QuH/j9RaaV8y9orfLg1ZRcLMRRGUWMKUQ7Ox7I5Fi4x/+XdxdjgaMY8WRhYA==
   dependencies:
     "@hyperjump/json-pointer" "^1.1.0"
     "@hyperjump/uri" "^1.2.0"
     content-type "^1.0.5"
-    just-curry-it "^5.3.0"
 
 "@hyperjump/json-pointer@^1.1.0":
   version "1.1.2"
