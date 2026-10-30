@@ -41,8 +41,8 @@ test('v3.0 uspto', async () => {
   const result = await validator(v3_0_uspto);
   expect(result.valid).toBeTruthy();
 });
-test('invalid version', () => {
-  expect(validator({openapi: '2.0.0'})).rejects
+test('invalid version', async () => {
+  await expect(validator({openapi: '2.0.0'})).rejects
     .toThrow('Not supported version.\nopenapi version 3.0.0 >= version < 3.3.0');
 });
 test('invalid schema', async () => {
