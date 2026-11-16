@@ -1,3 +1,10 @@
+## [2.2.60](https://github.com/[secure]-automatons/[secure]/compare/v2.2.59...v2.2.60) (2026-11-16)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump vite from 8.3.7 to 8.3.8 ([#727](https://github.com/[secure]-automatons/[secure]/issues/727)) ([617a769](https://github.com/[secure]-automatons/[secure]/commit/617a769a5c999726be34be34e71a8013577eae6a))
+
 ## [2.2.59](https://github.com/[secure]-automatons/[secure]/compare/v2.2.58...v2.2.59) (2026-11-12)
 
 
