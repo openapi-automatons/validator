@@ -1,3 +1,11 @@
+## [2.2.62](https://github.com/[secure]-automatons/[secure]/compare/v2.2.61...v2.2.62) (2026-11-18)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.6.0 to 17.6.1 ([#729](https://github.com/[secure]-automatons/[secure]/issues/729)) ([ef5930d](https://github.com/[secure]-automatons/[secure]/commit/ef5930dff45bc962b7377ebbf11515e7118c8a24))
+* **deps:** bump @hyperjump/json-schema from 1.18.0 to 1.18.1 ([#730](https://github.com/[secure]-automatons/[secure]/issues/730)) ([99606c1](https://github.com/[secure]-automatons/[secure]/commit/99606c1498cee20df436981d94eedffc028b3a27))
+
 ## [2.2.61](https://github.com/[secure]-automatons/[secure]/compare/v2.2.60...v2.2.61) (2026-11-16)
 
 
